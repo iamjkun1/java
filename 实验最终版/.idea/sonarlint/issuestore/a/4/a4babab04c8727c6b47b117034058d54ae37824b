@@ -1,0 +1,14 @@
+
+>
+java:S5411a"(Use a primitive boolean expression here.(—Èáã
+p	java:S116"VRename this field "label_Count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á÷‘øÿÿÿÿ
+m	java:S116"SRename this field "jt_Count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÚî¯üÿÿÿÿ
+n	java:S116"TRename this field "jb_Search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÿ¸ùúÿÿÿÿ
+B
+java:S1125^"'Remove the unnecessary boolean literal.(Öùğ¼üÿÿÿÿ
+=
+java:S1125a"'Remove the unnecessary boolean literal.(—Èáã
+D
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw
+H
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
